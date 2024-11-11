@@ -1,0 +1,8 @@
+MOVER &p3, &p1
+ADD &p3, &2
+MOVEM &p3, &p1
+MEND
+MOVER &p3, &p1
+SUB &p3, &p2
+MOVEM &p3, &p1
+MEND
